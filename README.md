@@ -27,7 +27,7 @@ Go to the folder in which you want to place it and run:
 **Latest**
 
 ```sh
-cargo generate --git https://github.com/Web3-Builders-Alliance/Boilerplate.W22TWT.Nahem.git --name PROJECT_NAME
+cargo generate --git https://github.com/nseguias/Boilerplate.git --name PROJECT_NAME
 ```
 
 You will now have a new folder called `PROJECT_NAME` (I hope you changed that to something else)
